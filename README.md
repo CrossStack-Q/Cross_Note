@@ -6,6 +6,7 @@ Yourself,And Share It With Friends And Family.
 
 This App is made in React.
 
+## Demo [@try_it_now](https://crossstack-q.github.io/Cross_Note/)
 
 ## Installation
 
