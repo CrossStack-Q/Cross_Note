@@ -1,69 +1,70 @@
+# Getting Started with Create React App
 
-# Cross Note
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Cross_Note Makes It Easy To Capture A Thought Or List For
-Yourself,And Share It With Friends And Family.
+## Available Scripts
 
-This App is made in React.
+In the project directory, you can run:
 
+### `npm start`
 
-## Demo [@try_it_now](https://crossstack-q.github.io/Cross_Note/)
-**Click above link then click on Cross_Note logo** 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Installation
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Clone the project
+### `npm test`
 
-```bash
-  git clone https://github.com/CrossStack-Q/Cross_Note
-```
-Go to the project directory
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-```bash
-  cd .\backend
-```
-```bash
-  npm install
-```
+### `npm run build`
 
-Go to the backend directory
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-```bash
-  cd .\backend
-```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Install dependencies
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-```bash
-  npm install
-```
+### `npm run eject`
 
-## Run Locally
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Set up mongodb database string in backend then db.js file
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-```bash
-  npm run both
-```
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Tech Stack
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-**Client:** React, NextUi,Bootstrap
+### Code Splitting
 
-**Server:** Node, Express
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
 
-## Screenshots
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/Home.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/SIgnUp.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/Note.png?raw=true)
-![App Screenshot](https://github.com/CrossStack-Q/Cross_Note/blob/main/assets/Edit.png?raw=true)
+### Making a Progressive Web App
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-## Authors
+### Advanced Configuration
 
-- [@crossstack-q](https://www.github.com/crossstack-q)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
