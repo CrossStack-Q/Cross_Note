@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/%20/static/css/main.14317a41.css",
+    "main.js": "/%20/static/js/main.f3f60ae5.js",
+    "static/media/signup.png": "/%20/static/media/signup.8ad67bc12411fa573c8f.png",
+    "static/media/login.png": "/%20/static/media/login.6b5cca5a386f1d769e29.png",
+    "static/media/about11.png": "/%20/static/media/about11.628641d484d589aa98f5.png",
+    "static/media/illus.png": "/%20/static/media/illus.94983d79bdd7f036fb35.png",
+    "static/media/logo.png": "/%20/static/media/logo.dec6fd381ad48938e49a.png",
+    "index.html": "/%20/index.html",
+    "main.14317a41.css.map": "/%20/static/css/main.14317a41.css.map",
+    "main.f3f60ae5.js.map": "/%20/static/js/main.f3f60ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14317a41.css",
+    "static/js/main.f3f60ae5.js"
+  ]
+}
